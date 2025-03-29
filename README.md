@@ -1,6 +1,8 @@
 # Java\_Practice\_Code
 Welcome to my repository for practicing **Java** programming ! This repository includes various code snippets, practice exercises, and small projects to enhance my understanding and Java skills.
 
+![Java Practice](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg)
+
 ## 💻 **Technologies Used**
 
 - **Java SE (Standard Edition)**: Covering basics, object-oriented programming, and standard libraries.
@@ -8,6 +10,10 @@ Welcome to my repository for practicing **Java** programming ! This repository i
 - **Algorithms**: Implementing sorting, searching, and other algorithmic solutions.
   
 ---
+
+## 💻 **Technologies Used**
+...
+
 
 ## 🚀 **How to Run the Code**
 
