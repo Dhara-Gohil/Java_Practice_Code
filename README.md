@@ -7,7 +7,7 @@ Welcome to my repository for practicing **Java** programming! This repository in
 - **Java SE (Standard Edition)**: Covering basics, object-oriented programming, and standard libraries.
 - **Java Collections Framework**: For working with data structures like lists, sets, and maps.
 - **Algorithms**: Implementing sorting, searching, and other algorithmic solutions.
-
+  
 ---
 
 ## 🚀 **How to Run the Code**
