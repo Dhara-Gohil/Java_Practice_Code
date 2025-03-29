@@ -1,6 +1,5 @@
 # Java\_Practice\_Code
-
-Welcome to my repository for practicing **Java** programming! This repository includes various code snippets, practice exercises, and small projects to enhance my understanding and Java skills.
+Welcome to my repository for practicing **Java** programming ! This repository includes various code snippets, practice exercises, and small projects to enhance my understanding and Java skills.
 
 ## 💻 **Technologies Used**
 
@@ -34,4 +33,4 @@ Do you have ideas for improvement or found a bug? Feel free to open an issue or 
 
 ---
 
-
+Happy Coding !!!
